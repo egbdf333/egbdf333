@@ -4,13 +4,10 @@ I'm Linus, a 2nd year student at SFU interested in Business and Computer Science
 
 ---
 
-### My Contact:
+### My Contacts:
 
----
-
-* a
-* b
-* c
+* [Email](lpa44@sfu.ca)
+* [LinkedIn](https://www.linkedin.com/in/linus-pui-07a535236/)
 
 
 <!--
