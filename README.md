@@ -1,6 +1,12 @@
 ### Hey Hey! 👋
-<br>
-hey hey
+---
+I'm Linus, a 2nd year student at SFU interested in Business and Computer Science! I'm currently grinding out my courses in hopes of securing a co-op one day. 
+---
+## My Contact:
+* a
+* b
+* c
+
 
 <!--
 **egbdf333/egbdf333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
