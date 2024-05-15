@@ -1,8 +1,8 @@
-### Hey Hey! 👋
+## Hey Hey! 👋 ##
 ---
 I'm Linus, a 2nd year student at SFU interested in Business and Computer Science! I'm currently grinding out my courses in hopes of securing a co-op one day. 
 ---
-## My Contact:
+### My Contact: ###
 * a
 * b
 * c
