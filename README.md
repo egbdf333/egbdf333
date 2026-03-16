@@ -1,6 +1,6 @@
 ## Hey Hey! 👋 
 
-I'm Linus, a 3rd year student at SFU interested in Business and Computer Science! I'm currently grinding out my courses in hopes of securing a co-op one day. Check out my socials below to learn more!
+I'm Linus, a 4th year student at SFU interested in Business and Computer Science! I'm currently grinding out my courses in hopes of securing another co-op one day. Check out my socials below to learn more!
 
 ---
 
